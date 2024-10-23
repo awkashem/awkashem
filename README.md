@@ -21,12 +21,13 @@ Skills: C / C++ / BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **awkashem001@gmail.com**
+- 📫 How to reach me **awkashem001@gmail.com**  **awkashem.syl.bd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mawadud/" target="blank"> Linkdin Profile </a>
+<a href="https://www.facebook.com/abdul.w.kashem/" target="blank"> Facebook Profile </a>
 </p>
 
 
