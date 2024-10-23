@@ -21,7 +21,7 @@ Skills: C / C++ / BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **awkashem001@gmail.com**  **awkashem.syl.bd@gmail.com**
+- 📫 How to reach me **awkashem001@gmail.com** | **awkashem.syl.bd@gmail.com** | 
 
 <h3 align="left">Connect with me:</h3>
 
