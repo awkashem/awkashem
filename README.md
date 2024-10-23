@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**awkashem/awkashem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Md Abdul Wadud</h1>
+<h3 align="center">Programmer | Web Designer | Online Tutor | </h3>
+<h4 align="center">founder of Expert Training Institute </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=awkashem&color=red)
+
+Skills: C / C++ / BOOTSTRAP / REACT / JS / HTML / CSS
+
+</div>
+
+- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+
+- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+
+- 📫 How to reach me **awkashem001@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mawadud/" target="blank"> Linkdin Profile </a>
+</p>
+
+
+<br/>
+<hr/>
+<br/>
+
